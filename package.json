@@ -1,0 +1,27 @@
+{
+  "name": "learning-npm-the-node-package-manager-4362456",
+  "version": "1.0.0",
+  "description": "This is the repository for the LinkedIn Learning course Learning npm: A Package Manager. The full course is available from [LinkedIn Learning][lil-course-url].",
+  "homepage": "https://github.com/LinkedInLearning/learning-npm-the-node-package-manager-4362456#readme",
+  "bugs": {
+    "url": "https://github.com/LinkedInLearning/learning-npm-the-node-package-manager-4362456/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LinkedInLearning/learning-npm-the-node-package-manager-4362456.git"
+  },
+  "license": "ISC",
+  "author": "Marcela R",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "cli": "^1.0.1"
+  }
+}
